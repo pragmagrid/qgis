@@ -1,0 +1,7 @@
+NAME              = qgis-sip
+ARCHIVENAME       = sip
+VERSION           = 4.16.9
+RELEASE           = 0
+TARBALL_POSTFIX	  = tar.gz 
+
+RPM.EXTRAS = "AutoReq: no"

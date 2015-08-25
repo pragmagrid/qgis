@@ -1,0 +1,7 @@
+NAME              = qgis-wxWidgets
+ARCHIVENAME        = wxWidgets
+VERSION           = 3.0.2
+RELEASE           = 0
+TARBALL_POSTFIX	  = tar.bz2 
+
+RPM.EXTRAS = "AutoReq: no"
