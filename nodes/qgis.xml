@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+
+<kickstart>
+
+
+	<description>
+	QGIS roll install on LMserver
+	</description>
+
+	<copyright>
+	Copyright (c) 2000 - 2014 The Regents of the University of California.
+	All rights reserved. Rocks(r) 6.2 www.rocksclusters.org
+	
+	</copyright>
+
+	<changelog>
+	</changelog>
+
+	<package>qgis-sip</package>
+	<package>qgis-wxPython</package>
+	<package>qgis-wxWidgets</package>
+	<package>qgis</package>
+	<package>roll-qgis-usersguide</package>
+
+</kickstart>
