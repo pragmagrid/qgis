@@ -9,10 +9,6 @@ REDHAT.ROOT = $(CURDIR)/../../
 -include $(ROCKSROOT)/etc/Rules.mk
 include Rules.mk
 
-# wget http://sourceforge.net/projects/pyqt/files/sip/sip-4.16.9/sip-4.16.9.tar.gz
-# your_program <<< $'yes\nno\nmaybe\n'
-#
-
 version.mk:
 	cat ../version.mk version.mk.in > version.mk
 

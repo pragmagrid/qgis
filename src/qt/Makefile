@@ -9,9 +9,6 @@ REDHAT.ROOT = $(CURDIR)/../../
 -include $(ROCKSROOT)/etc/Rules.mk
 include Rules.mk
 
-# wget http://download.qt.io/archive/qt/4.7/qt-everywhere-opensource-src-4.7.4.tar.gz
-#$(PY.PATH) configure-ng.py <<< $$'yes\n';
-
 version.mk:
 	cat ../version.mk version.mk.in > version.mk
 
