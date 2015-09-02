@@ -1,0 +1,7 @@
+NAME              = qgis-pyqt4
+ARCHIVENAME       = PyQt-x11-gpl
+VERSION           = 4.11.4
+RELEASE           = 0
+TARBALL_POSTFIX	  = tar.gz 
+
+RPM.EXTRAS = "AutoReq: no"
