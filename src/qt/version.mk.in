@@ -1,6 +1,6 @@
 NAME              = qgis-qt
 ARCHIVENAME       = qt-everywhere-opensource-src
-VERSION           = 4.7.4
+VERSION           = 4.8.6
 RELEASE           = 0
 TARBALL_POSTFIX	  = tar.gz 
 
