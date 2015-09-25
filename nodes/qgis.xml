@@ -16,11 +16,16 @@
 	<changelog>
 	</changelog>
 
+	<package>gsl-devel</package>
 	<package>qgis-wxWidgets</package>
 	<package>qgis-wxPython</package>
 	<package>qgis-qt</package>
 	<package>qgis-pyqt4</package>
 	<package>qgis-sip</package>
+	<package>qgis-freexl</package>
+	<package>qgis-spatialite</package>
+	<package>qgis-qscintilla2</package>
+	<package>qgis-qwt</package>
 	<package>qgis</package>
 	<package>roll-qgis-usersguide</package>
 
