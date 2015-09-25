@@ -1,0 +1,7 @@
+NAME              = qgis-qwt
+ARCHIVENAME       = qwt
+VERSION           = 6.1.2
+RELEASE           = 0
+TARBALL_POSTFIX	  = tar.bz2 
+
+RPM.EXTRAS = "AutoReq: no"
