@@ -1,0 +1,9 @@
+NAME              = qgis-spatialite
+ARCHIVENAME        = libspatialite
+VERSION           = 4.3.0a
+RELEASE           = 0
+TARBALL_POSTFIX	  = tar.gz 
+PYTHON27	  = /opt/python/bin/python2.7
+PYTHON27_PACKAGES = /opt/python
+
+RPM.EXTRAS = "AutoReq: no"
