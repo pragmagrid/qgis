@@ -16,12 +16,15 @@ Download
 ~~~~~~~~~~
 Download prerequisite packages 
 
-    :qgis     : wget http://qgis.org/downloads/qgis-2.8.0.tar.bz2
-    :         : wget http://qgis.org/downloads/qgis-2.8.0.tar.bz2.md5
-    :sip      : wget http://sourceforge.net/projects/pyqt/files/sip/sip-4.16.9/sip-4.16.9.tar.gz
-    :qt       : wget http://download.qt.io/archive/qt/4.7/qt-everywhere-opensource-src-4.7.4.tar.gz
-    :wxPython : wget http://downloads.sourceforge.net/wxpython/wxPython-src-3.0.2.0.tar.bz2
-    :wxWidgets: wget https://sourceforge.net/projects/wxwindows/files/3.0.2/wxWidgets-3.0.2.tar.bz2
+    :qgis       : wget http://qgis.org/downloads/qgis-2.8.0.tar.bz2
+    :           : wget http://qgis.org/downloads/qgis-2.8.0.tar.bz2.md5
+    :sip        : wget http://sourceforge.net/projects/pyqt/files/sip/sip-4.16.9/sip-4.16.9.tar.gz
+    :qt         : wget http://download.qt.io/archive/qt/4.7/qt-everywhere-opensource-src-4.7.4.tar.gz
+    :wxPython   : wget http://downloads.sourceforge.net/wxpython/wxPython-src-3.0.2.0.tar.bz2
+    :wxWidgets  : wget https://sourceforge.net/projects/wxwindows/files/3.0.2/wxWidgets-3.0.2.tar.bz2
+    :spatialite : wget http://www.gaia-gis.it/gaia-sins/libspatialite-sources/libspatialite-4.3.0a.tar.gz
+    :freexl     : wget http://www.gaia-gis.it/gaia-sins/freexl-1.0.2.tar.gz
+    :qscintilla2: wget http://sourceforge.net/projects/pyqt/files/QScintilla2/QScintilla-2.9/QScintilla-gpl-2.9.tar.gz
 
 
 Required Rolls
