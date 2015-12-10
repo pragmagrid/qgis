@@ -27,6 +27,8 @@ Download prerequisite packages
     :qscintilla2: wget http://sourceforge.net/projects/pyqt/files/QScintilla2/QScintilla-2.9/QScintilla-gpl-2.9.tar.gz
 
 
+See https://www.riverbankcomputing.com/software/sip/download for more downloads
+
 Required Rolls
 ~~~~~~~~~~~~~~~
 Required rolls must be added at the same time when the  qgis roll is installed. 
